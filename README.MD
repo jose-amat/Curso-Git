@@ -9,5 +9,7 @@
 - git branch - Cria e elimina outras linhas do tempo
 - git merge - Une linhas do tempo
 - git push - envia alterações locais para o repositório remoto (GitHub)
+- git clone - Pega um repositório que já começou
+- git pull - atualiza um repositório local puxando as alterações de um repositório remoto
 
 ## Github
